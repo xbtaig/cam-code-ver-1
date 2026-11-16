@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+data/*
+!data/captures/
+!data/results/
+!data/samples/
+data/captures/*
+!data/captures/.gitkeep
+data/results/*
+!data/results/.gitkeep
+data/samples/*
+!data/samples/.gitkeep
